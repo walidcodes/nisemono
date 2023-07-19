@@ -1,4 +1,4 @@
-# nisemono
+# Nisemono
 
 From a static image design to a fully fledged animated webpage with custom made buttons and animations. 
 
